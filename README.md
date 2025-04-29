@@ -1,16 +1,59 @@
-## Hi there 👋
+# 🌙 Nicole Estudante
 
-<!--
-**Niick220/Niick220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Desenhista | 💻 Estudante de T.I | 🌟 Personalidade Única  
+💬 Sempre explorando ideias fora do comum e criando mundos com traços, códigos e leite c'café.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Sobre Mim
+
+Olá! Sou a Nicole — uma mente criativa de 16 anos, que transita entre a arte e a tecnologia.  
+Atualmente estou estudando **Tecnologia da Informação**, onde exploro linguagens de programação, lógica computacional e desenvolvimento de sistemas, tudo isso enquanto continuo cultivando minha paixão pela **ilustração** e **design alternativo**.
+
+Meu objetivo é unir o universo visual com o digital, criando experiências únicas, expressivas e... um pouco excêntricas — porque o comum não me define 😉
+
+---
+
+## 🔧 Habilidades Técnicas
+
+- `HTML` / `CSS`
+- `JavaScript` (aprendendo!)
+- `Git` & `GitHub`
+- Lógica de Programação
+- Criatividade insana 🤯
+
+---
+
+## 🎨 Habilidades Artísticas
+
+- Desenho tradicional e digital
+- Criação de personagens originais
+- Estilo autoral alternativo
+- Storyboards e cenas com narrativa
+- Emoção + expressão no traço
+
+---
+
+## 🛠️ Em Progresso
+
+- Aprendendo `Python` e automação
+- Iniciando projetos próprios no GitHub
+- Criando um portfólio online
+- Misturando arte + T.I. de formas inusitadas
+
+---
+
+## 📫 Contato
+
+Quer bater um papo, colaborar ou ver minhas artes?
+
+- Instagram: [@niiick_12](https://instagram.com/niiick_12)
+- GitHub: [github.com/niick220](https://github.com/niick220)
+- Email: nicolevitoriasantosbarbosa@email.com
+
+---
+
+### ✨ “Ser comum nunca foi uma opção.”
+
+
+
