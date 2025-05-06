@@ -1,6 +1,6 @@
 # 🌙 Nicole Estudante
 
-🎨 Desenhista | 💻 Estudante de T.I | 🌟 Personalidade Única  
+🎨 Desenhista | 💻 Estudante de T.I | 🌟 
 💬 Sempre explorando ideias fora do comum e criando mundos com traços, códigos e leite c'café.
 
 ---
